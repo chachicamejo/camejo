@@ -1,0 +1,6 @@
+{
+  "name": "Jose Camejo",
+  "tagline": "",
+  "body": "<input type=\"filepicker\" data-fp-apikey=\"Ab4aeJlKZRqefSIRUyZnYz\"\r\nonchange=\"alert(event.fpfile.url)\">",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
