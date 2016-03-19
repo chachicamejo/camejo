@@ -802,6 +802,11 @@ section #title h1 {
   line-height: 36px;
   padding-bottom: 18px;
 }
+section #title h1 span.year {
+    float: right;
+    font-size: 0.7em;
+    line-height: 1.65;
+}
 section #title p {
   color: #d7cfbe;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
